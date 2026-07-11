@@ -14,13 +14,5 @@
       "createdAt": 1783774551120
     }
   ],
-  "finance": [
-    {
-      "id": "F1783774564030",
-      "type": "inc",
-      "amount": 270000,
-      "desc": "Задача: Bdbdb",
-      "date": "2026-07-11"
-    }
-  ]
+  "finance": []
 }
