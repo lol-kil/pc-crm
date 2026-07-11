@@ -1,4 +1,18 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "T1783759960419",
+      "date": "2026-07-16",
+      "client": "уцуу",
+      "phone": "222222",
+      "addr": "333",
+      "taskType": "",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783759960419
+    }
+  ],
   "finance": []
 }
