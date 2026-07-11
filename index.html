@@ -24,6 +24,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-h
 .lock-box{background:var(--s2);border:1px solid var(--border);border-radius:14px;padding:2.5rem 2rem;width:320px;display:flex;flex-direction:column;gap:1rem;align-items:center;}
 .lock-logo{font-family:'JetBrains Mono',monospace;font-size:1.8rem;font-weight:700;color:var(--open);letter-spacing:-0.04em;}
 .lock-sub{font-size:0.72rem;color:var(--muted2);letter-spacing:0.1em;text-transform:uppercase;}
+.lock-input{width:100%;background:var(--s3);border:1px solid var(--border2);border-radius:8px;padding:0.75rem 1rem;color:var(--text);font-family:'JetBrains Mono',monospace;font-size:1.4rem;letter-spacing:0.3em;text-align:center;outline:none;transition:border-color 0.2s;}
 .lock-input{width:100%;background:var(--s3);border:1px solid var(--border2);border-radius:8px;padding:0.75rem 1rem;color:var(--text);font-family:'JetBrains Mono',monospace;font-size:1.4rem;letter-spacing:0.2em;text-align:center;}
 .lock-input:focus{border-color:var(--open);}
 .lock-input.error{border-color:var(--over);animation:shake 0.3s;}
@@ -33,6 +34,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-h
 .lock-err{font-size:0.75rem;color:var(--over);min-height:1rem;text-align:center;}
 
 /* SAVING INDICATOR */
+#saveIndicator{position:fixed;bottom:1rem;right:1rem;background:var(--s2);border:1px solid var(--border);border-radius:8px;padding:0.5rem 0.9rem;font-size:0.72rem;color:var(--muted2);z-index:500;opacity:0;transition:opacity 0.3s;pointer-events:none;}
 #saveIndicator{position:fixed;bottom:1rem;right:1rem;background:var(--s2);border:1px solid var(--border);border-radius:8px;padding:0.5rem 0.9rem;font-size:0.72rem;color:var(--muted2);z-index:500;opacity:0;transition:opacity 0.25s;}
 #saveIndicator.visible{opacity:1;}
 #saveIndicator.error{color:var(--over);border-color:var(--over-border);}
@@ -80,8 +82,10 @@ header{display:flex;align-items:center;gap:0.75rem;padding:0.85rem 1.5rem;border
 .tp.over{background:var(--over-bg);color:var(--over);border-left:2px solid var(--over);}
 
 /* OVERLAY */
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,0.75);backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;z-index:200;opacity:0;pointer-events:none;transition:opacity 0.2s;padding:1rem;}
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,0.75);backdrop-filter:blur(6px);display:flex;align-items:center;justify-content:center;z-index:200;opacity:0;pointer-events:none;transition:opacity 0.2s;}
 .overlay.open{opacity:1;pointer-events:all;}
+.modal{background:var(--s2);border:1px solid var(--border2);border-radius:14px;padding:1.3rem;width:100%;max-width:460px;transform:translateY(12px);transition:transform 0.2s;max-height:90vh;overflow-y:auto;display:flex;flex-direction:column;gap:0.8rem;}
 .modal{background:var(--s2);border:1px solid var(--border2);border-radius:14px;padding:1.3rem;width:100%;max-width:460px;transform:translateY(12px);transition:transform 0.2s;max-height:90vh;overflow-y:auto;}
 .overlay.open .modal{transform:translateY(0);}
 .modal-head{display:flex;align-items:flex-start;justify-content:space-between;gap:0.5rem;}
@@ -105,6 +109,7 @@ header{display:flex;align-items:center;gap:0.75rem;padding:0.85rem 1.5rem;border
 .task-detail{font-size:0.72rem;color:var(--muted2);}
 .task-income{font-size:0.72rem;color:var(--done);font-family:'JetBrains Mono',monospace;}
 .task-actions{display:flex;gap:0.4rem;margin-top:0.3rem;}
+.tact-btn{width:28px;height:28px;border-radius:6px;border:1px solid var(--border2);background:var(--s2);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:0.82rem;transition:background 0.13s,border-color 0.13s;flex-shrink:0;}
 .tact-btn{width:28px;height:28px;border-radius:6px;border:1px solid var(--border2);background:var(--s2);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:0.82rem;transition:background 0.13s,border-color 0.13s;}
 .tact-btn:hover{background:var(--s3);}
 .tact-btn.edit:hover{border-color:var(--open);}
@@ -118,10 +123,12 @@ header{display:flex;align-items:center;gap:0.75rem;padding:0.85rem 1.5rem;border
 /* FORM */
 .form-title{font-size:0.6rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted2);}
 .form-grid{display:flex;flex-direction:column;gap:0.42rem;}
+.fi{background:var(--s3);border:1px solid var(--border);border-radius:7px;color:var(--text);font-family:'Inter',sans-serif;font-size:0.81rem;padding:0.48rem 0.72rem;outline:none;transition:border-color 0.15s;width:100%;resize:none;}
 .fi{background:var(--s3);border:1px solid var(--border);border-radius:7px;color:var(--text);font-family:'Inter',sans-serif;font-size:0.81rem;padding:0.48rem 0.72rem;outline:none;transition:border-color 0.15s;}
 .fi:focus{border-color:var(--open);}
 .fi::placeholder{color:var(--muted);}
 .row2{display:grid;grid-template-columns:1fr 1fr;gap:0.42rem;}
+.btn-save{background:var(--open);border:none;border-radius:8px;padding:0.58rem;color:#fff;font-family:'Inter',sans-serif;font-size:0.81rem;font-weight:600;cursor:pointer;transition:opacity 0.15s;width:100%;}
 .btn-save{background:var(--open);border:none;border-radius:8px;padding:0.58rem;color:#fff;font-family:'Inter',sans-serif;font-size:0.81rem;font-weight:600;cursor:pointer;transition:opacity 0.15s;}
 .btn-save:hover{opacity:0.85;}
 .label-sm{font-size:0.63rem;color:var(--muted2);letter-spacing:0.08em;text-transform:uppercase;margin-bottom:0.2rem;}
@@ -131,8 +138,11 @@ header{display:flex;align-items:center;gap:0.75rem;padding:0.85rem 1.5rem;border
 .btn-row{display:flex;gap:0.45rem;}
 .btn-confirm{flex:1;background:var(--done);border:none;border-radius:8px;padding:0.58rem;color:#000;font-size:0.81rem;font-weight:700;cursor:pointer;transition:opacity 0.15s;}
 .btn-confirm:hover{opacity:0.85;}
+.btn-secondary{flex:1;background:var(--s3);border:1px solid var(--border2);border-radius:8px;padding:0.58rem;color:var(--text);font-size:0.81rem;cursor:pointer;transition:background 0.15s;font-family:'Inter',sans-serif;}
 .btn-secondary{flex:1;background:var(--s3);border:1px solid var(--border2);border-radius:8px;padding:0.58rem;color:var(--text);font-size:0.81rem;cursor:pointer;transition:background 0.15s;font-weight:600;}
 .btn-secondary:hover{background:var(--border);}
+.modal-close{width:100%;background:var(--s3);border:1px solid var(--border);border-radius:8px;padding:0.52rem;color:var(--muted);font-family:'Inter',sans-serif;font-size:0.78rem;cursor:pointer;transition:background 0.15s;}
+.modal-close:hover{background:var(--border);}
 
 /* FINANCE */
 .fin-summary{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0.55rem;}
@@ -178,7 +188,7 @@ header{display:flex;align-items:center;gap:0.75rem;padding:0.85rem 1.5rem;border
 </div>
 
 <!-- SAVE INDICATOR -->
-<div id="saveIndicator">✓ Данные сохранены локально</div>
+<div id="saveIndicator">💾 Сохранение…</div>
 
 <!-- HEADER -->
 <header id="appHeader" style="display:none">
@@ -313,11 +323,18 @@ if(window.Telegram?.WebApp){
   tg.ready();
   tg.setHeaderColor('transparent');
   tg.setBackgroundColor('#0d0d0d');
+  
+  // Для закрытия бота
+  window.closeTelegramApp = ()=>{ tg.close(); };
 }
 
 // ══════ CONFIG ══════
-const PIN = '0220';
-const STORAGE_KEY = 'pc_crm_data';
+const PIN         = '0220';
+const GH_TOKEN    = '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';
+const GH_OWNER    = 'lol-kil';
+const GH_REPO     = 'pc-crm';
+const GH_FILE     = 'data.json';
+const API_URL     = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/${GH_FILE}`;
 
 const TODAY = (()=>{ const d=new Date(); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; })();
 const MONTH_NAMES = ['ЯНВАРЬ','ФЕВРАЛЬ','МАРТ','АПРЕЛЬ','МАЙ','ИЮНЬ','ИЮЛЬ','АВГУСТ','СЕНТЯБРЬ','ОКТЯБРЬ','НОЯБРЬ','ДЕКАБРЬ'];
@@ -326,35 +343,71 @@ const DAY_H = ['ПН','ВТ','СР','ЧТ','ПТ','СБ','ВС'];
 // ══════ STATE ══════
 let tasks = [];
 let finEntries = [];
+let ghSha = '';          // текущий sha файла — нужен для обновления
 let currentYear = new Date().getFullYear();
 let currentDayDate = null;
 let closingTaskId = null;
 let editingTaskId = null;
 let dupSourceTaskId = null;
 let finType = 'inc';
+let saveTimer = null;
 
-// ══════ STORAGE (LocalStorage) ══════
-function loadData(){
-  const stored = localStorage.getItem(STORAGE_KEY);
-  if(stored) {
-    const data = JSON.parse(stored);
-    tasks = data.tasks || [];
-    finEntries = data.finance || [];
+// ══════ GITHUB API ══════
+async function ghLoad(){
+  showSave('⟳ Загрузка…', '');
+  try {
+    const r = await fetch(API_URL, {
+      headers: { Authorization: `token ${GH_TOKEN}`, Accept: 'application/vnd.github.v3+json' }
+    });
+    const j = await r.json();
+    ghSha = j.sha;
+    const decoded = JSON.parse(atob(j.content.replace(/\n/g,'')));
+    tasks      = decoded.tasks      || [];
+    finEntries = decoded.finance    || [];
+    showSave('✓ Данные загружены', 'ok');
+  } catch(e) {
+    showSave('✗ Ошибка загрузки', 'error');
   }
 }
 
-function saveData(){
-  localStorage.setItem(STORAGE_KEY, JSON.stringify({
-    tasks, finance: finEntries, saved: new Date().toLocaleString('ru-RU')
-  }));
-  showSave('✓ Сохранено локально', 'ok');
+async function ghSave(){
+  showSave('💾 Сохранение…', '');
+  const content = btoa(unescape(encodeURIComponent(
+    JSON.stringify({ tasks, finance: finEntries }, null, 2)
+  )));
+  try {
+    const r = await fetch(API_URL, {
+      method: 'PUT',
+      headers: {
+        Authorization: `token ${GH_TOKEN}`,
+        Accept: 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ message: 'update: crm data', content, sha: ghSha })
+    });
+    const j = await r.json();
+    if(j.content) {
+      ghSha = j.content.sha;
+      showSave('✓ Сохранено', 'ok');
+    } else {
+      showSave('✗ Ошибка сохранения', 'error');
+    }
+  } catch(e) {
+    showSave('✗ Нет соединения', 'error');
+  }
+}
+
+// Дебаунс: не спамим GitHub, ждём 800мс после последнего изменения
+function scheduleSave(){
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(ghSave, 800);
 }
 
 function showSave(text, cls){
   const el = document.getElementById('saveIndicator');
   el.textContent = text;
   el.className = 'visible ' + cls;
-  if(cls === 'ok') setTimeout(()=>{ el.className=''; }, 2000);
+  if(cls === 'ok') setTimeout(()=>{ el.className=''; }, 2500);
 }
 
 // ══════ AUTH ══════
@@ -364,9 +417,7 @@ function tryLogin(){
     document.getElementById('appHeader').style.display='flex';
     document.getElementById('yearNav').style.display='flex';
     document.getElementById('monthsWrap').style.display='grid';
-    loadData();
-    render();
-    setTimeout(scrollToCurrentMonth,150);
+    ghLoad().then(()=>{ render(); setTimeout(scrollToCurrentMonth,150); });
   } else {
     const inp = document.getElementById('pinInput');
     inp.classList.add('error');
@@ -492,14 +543,14 @@ function addTask(){
     note:document.getElementById('fNote').value.trim(),
     closed:false, income:null, closeNote:'', createdAt:Date.now()
   });
-  saveData();
+  scheduleSave();
   ['fClient','fPhone','fAddr','fType','fNote'].forEach(id=>document.getElementById(id).value='');
   renderDayTasks(); render();
 }
 
 function deleteTask(id){
   tasks=tasks.filter(t=>t.id!==id);
-  saveData();
+  scheduleSave();
   renderDayTasks(); render();
 }
 
@@ -516,7 +567,7 @@ function confirmCloseTask(){
   t.income=document.getElementById('ctMoney').value||0;
   t.closeNote=document.getElementById('ctNote').value.trim();
   if(+t.income>0) finEntries.push({id:'F'+Date.now(),type:'inc',amount:+t.income,desc:`Задача: ${t.client}`,date:t.date});
-  saveData();
+  scheduleSave();
   closeOverlay('closeTaskOverlay');
   renderDayTasks(); render();
 }
@@ -554,7 +605,7 @@ function saveEdit(duplicate){
   } else {
     Object.assign(t,fields,{date:newDate});
   }
-  saveData();
+  scheduleSave();
   closeOverlay('editOverlay');
   if(currentDayDate) renderDayTasks();
   render();
@@ -566,7 +617,7 @@ function confirmDup(){
   if(!dd){ document.getElementById('dupDate').focus(); return; }
   const src=tasks.find(x=>x.id===dupSourceTaskId); if(!src){ closeOverlay('dupOverlay'); return; }
   tasks.push({...src,id:'T'+Date.now(),date:dd,closed:false,income:null,closeNote:''});
-  saveData();
+  scheduleSave();
   closeOverlay('dupOverlay'); render();
 }
 
@@ -596,14 +647,14 @@ function addFinEntry(){
   const amount=+document.getElementById('finAmount').value;
   if(!amount){ document.getElementById('finAmount').focus(); return; }
   finEntries.push({id:'F'+Date.now(),type:finType,amount,desc:document.getElementById('finDesc').value.trim(),date:TODAY});
-  saveData();
+  scheduleSave();
   document.getElementById('finAmount').value='';
   document.getElementById('finDesc').value='';
   renderFinance(); render();
 }
 function delFinEntry(id){
   finEntries=finEntries.filter(e=>e.id!==id);
-  saveData();
+  scheduleSave();
   renderFinance(); render();
 }
 
@@ -624,7 +675,7 @@ document.querySelectorAll('.overlay').forEach(ov=>{
   ov.addEventListener('click',e=>{ if(e.target===ov) ov.classList.remove('open'); });
 });
 
-// ══════ EVENT DELEGATION ══════
+// ══════ EVENT DELEGATION (все кнопки с data-action) ══════
 document.addEventListener('click', e=>{
   const btn=e.target.closest('[data-action]'); if(!btn) return;
   const id=btn.dataset.id;
@@ -654,4 +705,7 @@ document.addEventListener('click', e=>{
 });
 </script>
 </body>
+</html>
+HTMLEOF
+echo "done"
 </html>
