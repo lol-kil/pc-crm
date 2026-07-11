@@ -340,7 +340,9 @@ async function ghLoad(){
     });
     const j = await r.json();
     ghSha = j.sha;
-    const decoded = JSON.parse(atob(j.content.replace(/\n/g,'')));
+    const binStr = atob(j.content.replace(/\n/g,''));
+    const bytes = Uint8Array.from(binStr, c => c.charCodeAt(0));
+    const decoded = JSON.parse(new TextDecoder().decode(bytes));
     tasks      = decoded.tasks      || [];
     finEntries = decoded.finance    || [];
     showSave('✓ Данные загружены', 'ok');
@@ -351,9 +353,10 @@ async function ghLoad(){
 
 async function ghSave(){
   showSave('💾 Сохранение…', '');
-  const content = btoa(unescape(encodeURIComponent(
-    JSON.stringify({ tasks, finance: finEntries }, null, 2)
-  )));
+  const json = JSON.stringify({ tasks, finance: finEntries }, null, 2);
+  const bytes = new TextEncoder().encode(json);
+  const binStr = Array.from(bytes, b => String.fromCharCode(b)).join('');
+  const content = btoa(binStr);
   try {
     const r = await fetch(API_URL, {
       method: 'PUT',
