@@ -1,18 +1,4 @@
 {
-  "tasks": [
-    {
-      "id": "T1783774551120",
-      "date": "2026-07-11",
-      "client": "Bdbdb",
-      "phone": "124546",
-      "addr": "Jsheh",
-      "taskType": "Dhdh",
-      "note": "Sjej",
-      "closed": true,
-      "income": "270000",
-      "closeNote": "Rjfjfj",
-      "createdAt": 1783774551120
-    }
-  ],
+  "tasks": [],
   "finance": []
 }
