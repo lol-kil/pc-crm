@@ -25,6 +25,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783920719832
+    },
+    {
+      "id": "T1783920886936",
+      "date": "2026-07-13",
+      "client": "Hayper",
+      "phone": "",
+      "addr": "",
+      "taskType": "Zalravka printerlarni",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783920886936
     }
   ],
   "finance": []
