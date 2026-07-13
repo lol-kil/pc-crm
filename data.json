@@ -73,6 +73,13 @@
       "amount": 200000,
       "desc": "Задача: Shukrulla aka",
       "date": "2026-07-13"
+    },
+    {
+      "id": "F1783933294473",
+      "type": "exp",
+      "amount": 70000,
+      "desc": "Ermak noutbukiga trafaretga",
+      "date": "2026-07-13"
     }
   ]
 }
