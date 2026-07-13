@@ -8,9 +8,9 @@
       "addr": "Ermak - yangi korpus",
       "taskType": "Noutbukni olib ketishimiz kerak gravirovka uchun",
       "note": "Qwerty",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "200000",
+      "closeNote": "70.000 трафарет килдирлик",
       "createdAt": 1783920463009
     },
     {
@@ -53,5 +53,13 @@
       "createdAt": 1783922202968
     }
   ],
-  "finance": []
+  "finance": [
+    {
+      "id": "F1783932940628",
+      "type": "inc",
+      "amount": 200000,
+      "desc": "Задача: Shukrulla aka",
+      "date": "2026-07-13"
+    }
+  ]
 }
