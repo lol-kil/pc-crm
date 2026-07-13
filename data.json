@@ -87,6 +87,13 @@
       "amount": 140000,
       "desc": "Zilolaga klaviatura, printerga kabel va manitorga merkan perexadnikga",
       "date": "2026-07-13"
+    },
+    {
+      "id": "F1783933365967",
+      "type": "exp",
+      "amount": 200000,
+      "desc": "Benzinga",
+      "date": "2026-07-13"
     }
   ]
 }
