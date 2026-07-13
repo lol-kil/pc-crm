@@ -12,6 +12,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783920463009
+    },
+    {
+      "id": "T1783920719832",
+      "date": "2026-07-13",
+      "client": "Zilola",
+      "phone": "",
+      "addr": "Osiyo trans",
+      "taskType": "Zilolano pritirini remonga olgan edik, qaytarib berish kerka",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783920719832
     }
   ],
   "finance": []
