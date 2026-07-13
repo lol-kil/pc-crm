@@ -47,9 +47,9 @@
       "addr": "",
       "taskType": "Компютерларини кориб бериш керак.",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "100000",
+      "closeNote": "4 ta komyuter kordik\nBoot, xprinter, hub, eski",
       "createdAt": 1783922202968
     },
     {
@@ -106,6 +106,13 @@
       "type": "exp",
       "amount": 200000,
       "desc": "Benzinga",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "F1783940221597",
+      "type": "inc",
+      "amount": 100000,
+      "desc": "Задача: Реал мед",
       "date": "2026-07-13"
     }
   ]
