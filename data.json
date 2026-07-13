@@ -1,4 +1,18 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "T1783920463007",
+      "date": "2026-07-13",
+      "client": "Shukrulla aka",
+      "phone": "1234567",
+      "addr": "Ermak - yangi korpus",
+      "taskType": "Noutbukni olib ketishimiz kerak gravirovka uchun",
+      "note": "Qwerty",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783920463009
+    }
+  ],
   "finance": []
 }
