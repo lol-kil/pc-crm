@@ -38,6 +38,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783920886936
+    },
+    {
+      "id": "T1783922202968",
+      "date": "2026-07-13",
+      "client": "Реал мед",
+      "phone": "",
+      "addr": "",
+      "taskType": "Компютерларини кориб бериш керак.",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783922202968
     }
   ],
   "finance": []
