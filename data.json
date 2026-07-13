@@ -21,9 +21,9 @@
       "addr": "Osiyo trans",
       "taskType": "Zilolano pritirini remonga olgan edik, qaytarib berish kerka",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Клавиатура обкелдик - 170.000 алмаштириш кере\nКабел ва перехадник обкелдик маниторга - 40.000\nЗаправка принтера 2 та 1005",
       "createdAt": 1783920719832
     },
     {
