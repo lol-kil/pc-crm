@@ -34,9 +34,9 @@
       "addr": "",
       "taskType": "Zalravka printerlarni",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "1 та запраква 1005",
       "createdAt": 1783920886936
     },
     {
