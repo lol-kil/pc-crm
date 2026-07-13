@@ -64,6 +64,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783933191842
+    },
+    {
+      "id": "T1783935217606",
+      "date": "2026-07-14",
+      "client": "Abbos",
+      "phone": "",
+      "addr": "Ekalogiya",
+      "taskType": "Printerlarga zaprafakag",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783935217606
     }
   ],
   "finance": [
