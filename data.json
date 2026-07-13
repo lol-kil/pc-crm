@@ -51,6 +51,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783922202968
+    },
+    {
+      "id": "T1783933191842",
+      "date": "2026-07-16",
+      "client": "Охранадаги брат",
+      "phone": "",
+      "addr": "Osiyo trans",
+      "taskType": "Manitorlarini obkeladi",
+      "note": "Zilolaga noutbuk",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783933191842
     }
   ],
   "finance": [
