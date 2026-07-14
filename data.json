@@ -86,9 +86,9 @@
       "addr": "Ofis isxok",
       "taskType": "Ofisdagi kameralarini togirlashim kere",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Orqa tomondagi kabelni ozgartirdik va ikkta kamera qoydik. Bittasi dachadagi eskisi bittasi ofisdagi eskisi",
       "createdAt": 1784027746237
     }
   ],
