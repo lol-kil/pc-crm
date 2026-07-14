@@ -103,6 +103,19 @@
       "income": 0,
       "closeNote": "Иккта камерани алмаштириш кере, битта янги койилади",
       "createdAt": 1784027840213
+    },
+    {
+      "id": "T1784033060549",
+      "date": "2026-07-20",
+      "client": "Ms. Ganesh",
+      "phone": "",
+      "addr": "40dom, 5 etaj, 7 xonadon",
+      "taskType": "3 ta kamera obkeb qoyib berish kerag",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784033060549
     }
   ],
   "finance": [
