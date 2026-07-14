@@ -77,6 +77,19 @@
       "income": 0,
       "closeNote": "3 ta zapravka 1005",
       "createdAt": 1783935217606
+    },
+    {
+      "id": "T1784027746237",
+      "date": "2026-07-14",
+      "client": "Isxoq aka",
+      "phone": "",
+      "addr": "Ofis isxok",
+      "taskType": "Ofisdagi kameralarini togirlashim kere",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784027746237
     }
   ],
   "finance": [
