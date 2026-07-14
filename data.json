@@ -73,9 +73,9 @@
       "addr": "Ekalogiya",
       "taskType": "Printerlarga zaprafakag",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "3 ta zapravka 1005",
       "createdAt": 1783935217606
     }
   ],
