@@ -90,6 +90,19 @@
       "income": 0,
       "closeNote": "Orqa tomondagi kabelni ozgartirdik va ikkta kamera qoydik. Bittasi dachadagi eskisi bittasi ofisdagi eskisi",
       "createdAt": 1784027746237
+    },
+    {
+      "id": "T1784027840213",
+      "date": "2026-07-14",
+      "client": "Ms. Ganesh",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kamera bilan ishi bor",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784027840213
     }
   ],
   "finance": [
