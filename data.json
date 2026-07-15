@@ -116,6 +116,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784033060549
+    },
+    {
+      "id": "T1784137173151",
+      "date": "2026-07-16",
+      "client": "Ermak d ga",
+      "phone": "",
+      "addr": "",
+      "taskType": "Internet ishlatish kere",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784137173151
     }
   ],
   "finance": [
