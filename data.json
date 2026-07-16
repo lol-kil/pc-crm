@@ -142,6 +142,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784176737339
+    },
+    {
+      "id": "T1784176763714",
+      "date": "2026-07-16",
+      "client": "Rakat mahalla",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784176763714
     }
   ],
   "finance": [
