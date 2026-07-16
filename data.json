@@ -151,9 +151,9 @@
       "addr": "Ракат махалла",
       "taskType": "",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Янги манаблокни орнатиб бердик, шунга ва шеригига принтерга боглаб бердик, офис активация килдик",
       "createdAt": 1784176763714
     },
     {
