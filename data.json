@@ -60,8 +60,8 @@
       "addr": "Osiyo trans",
       "taskType": "Manitorlarini obkeladi",
       "note": "Zilolaga klaviatura boshqasi\nAkmal akani kompyuterini obkelishimiz kerak",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1783933191842
     },
