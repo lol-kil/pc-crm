@@ -155,6 +155,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784176763714
+    },
+    {
+      "id": "T1784185094753",
+      "date": "2026-07-20",
+      "client": "Охранадаги брат",
+      "phone": "",
+      "addr": "Osiyo trans",
+      "taskType": "Manitorlarini obkeladi",
+      "note": "Zilolaga klaviatura boshqasi\nAkmal akani kompyuterini obkelishimiz kerak",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1783933191842
     }
   ],
   "finance": [
