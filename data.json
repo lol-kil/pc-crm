@@ -129,6 +129,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784137173151
+    },
+    {
+      "id": "T1784176737336",
+      "date": "2026-07-16",
+      "client": "Zilola",
+      "phone": "",
+      "addr": "Osiyo trans",
+      "taskType": "Zilolani komyuteri ochib qolishi",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784176737339
     }
   ],
   "finance": [
