@@ -168,6 +168,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1783933191842
+    },
+    {
+      "id": "T1784270007073",
+      "date": "2026-07-17",
+      "client": "Shaxzodga",
+      "phone": "",
+      "addr": "Ermak glavnih",
+      "taskType": "2 ta pc ni tashlab ketamiz",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784270007073
     }
   ],
   "finance": [
