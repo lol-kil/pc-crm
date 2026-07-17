@@ -125,9 +125,9 @@
       "addr": "",
       "taskType": "Internet ishlatish kere",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Wifi ishlamayptgan ekan, togirlab berdik, 1 ta 1005 zaprafka boldi",
       "createdAt": 1784137173151
     },
     {
