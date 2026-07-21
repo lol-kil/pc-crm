@@ -1,4 +1,18 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "T1784614193937",
+      "date": "2026-07-21",
+      "client": "Шукрулло ака",
+      "phone": "",
+      "addr": "Ermak A",
+      "taskType": "Printerni bervorish kerak",
+      "note": "Printer prochistka boldi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614193937
+    }
+  ],
   "finance": []
 }
