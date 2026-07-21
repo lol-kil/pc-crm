@@ -73,9 +73,9 @@
       "addr": "",
       "taskType": "Zapravka",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "7 та 1005 заправка\n2 та 1010 магнитка алмашди",
       "createdAt": 1784616702935
     },
     {
