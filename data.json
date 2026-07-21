@@ -64,6 +64,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614773267
+    },
+    {
+      "id": "T1784614836155",
+      "date": "2026-07-22",
+      "client": "Ermak Yangi kormup",
+      "phone": "",
+      "addr": "",
+      "taskType": "Internet",
+      "note": "Kompyuyerda internetlari ishlamayapti qarash kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614836155
     }
   ],
   "finance": []
