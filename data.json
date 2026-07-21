@@ -116,6 +116,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784616776862
+    },
+    {
+      "id": "T1784617577515",
+      "date": "2026-07-22",
+      "client": "Rakat mahalla",
+      "phone": "",
+      "addr": "",
+      "taskType": "Printer",
+      "note": "Rangli kraskaga zapravka",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784617577515
     }
   ],
   "finance": []
