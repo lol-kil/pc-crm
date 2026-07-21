@@ -77,6 +77,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614836155
+    },
+    {
+      "id": "T1784616702935",
+      "date": "2026-07-25",
+      "client": "Ermak glavniy",
+      "phone": "",
+      "addr": "",
+      "taskType": "Zapravka",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784616702935
     }
   ],
   "finance": []
