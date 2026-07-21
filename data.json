@@ -14,19 +14,6 @@
       "createdAt": 1784614193937
     },
     {
-      "id": "T1784614606003",
-      "date": "2026-07-21",
-      "client": "Osiyo trans",
-      "phone": "",
-      "addr": "",
-      "taskType": "Kompyuter zborka",
-      "note": "Malikadan zapchaslani ovolamjz yigib oborib beramzi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
-      "createdAt": 1784614606003
-    },
-    {
       "id": "T1784614662084",
       "date": "2026-07-22",
       "client": "Abbos",
