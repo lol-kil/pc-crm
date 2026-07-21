@@ -51,6 +51,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614721161
+    },
+    {
+      "id": "T1784614773266",
+      "date": "2026-07-22",
+      "client": "Ms Ganesh",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kamera",
+      "note": "3 ta kamera ob uyiga qoyib berishimiz kerak",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614773267
     }
   ],
   "finance": []
