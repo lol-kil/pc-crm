@@ -25,6 +25,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614606003
+    },
+    {
+      "id": "T1784614662084",
+      "date": "2026-07-22",
+      "client": "Abbos",
+      "phone": "",
+      "addr": "Ekologiya",
+      "taskType": "Zapravka",
+      "note": "Printerlaini korib zapravka qilib berish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614662084
     }
   ],
   "finance": []
