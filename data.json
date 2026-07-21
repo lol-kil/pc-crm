@@ -8,9 +8,9 @@
       "addr": "Ermak A",
       "taskType": "Printerni bervorish kerak",
       "note": "Printer prochistka boldi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Принтерни озидан прочиска килдик",
       "createdAt": 1784614193937
     },
     {
