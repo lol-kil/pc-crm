@@ -90,6 +90,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784616702935
+    },
+    {
+      "id": "T1784616749831",
+      "date": "2026-07-21",
+      "client": "Shuxrat",
+      "phone": "",
+      "addr": "",
+      "taskType": "Alixon aka etgan ish",
+      "note": "Botta komyuter gigabayt internet bermayapti",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784616749831
     }
   ],
   "finance": []
