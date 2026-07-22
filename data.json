@@ -142,6 +142,19 @@
       "income": "200000",
       "closeNote": "Олдик текшириб обкеб берлик, хаммаси яхши пулини алихон ака беради",
       "createdAt": 1784616749831
+    },
+    {
+      "id": "T1784709245527",
+      "date": "2026-07-22",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "Klaviaturani zilolaga berildi.\nYangi komyuyer berildi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784709245528
     }
   ],
   "finance": [
