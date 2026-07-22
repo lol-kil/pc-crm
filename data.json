@@ -125,9 +125,9 @@
       "addr": "",
       "taskType": "Proverka pc",
       "note": "Kompyuyeri ishlamayapti, qarab berish kerak",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Ортикча праграммалани очириб ташадтк, оператика олиш кере ёки янги комп",
       "createdAt": 1784614721161
     },
     {
