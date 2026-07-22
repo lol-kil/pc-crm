@@ -138,11 +138,19 @@
       "addr": "",
       "taskType": "Alixon aka etgan ish",
       "note": "Botta komyuter gigabayt internet bermayapti",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "200000",
+      "closeNote": "Олдик текшириб обкеб берлик, хаммаси яхши пулини алихон ака беради",
       "createdAt": 1784616749831
     }
   ],
-  "finance": []
+  "finance": [
+    {
+      "id": "F1784703262881",
+      "type": "inc",
+      "amount": 200000,
+      "desc": "Задача: Shuxrat",
+      "date": "2026-07-23"
+    }
+  ]
 }
