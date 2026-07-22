@@ -116,6 +116,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784617577515
+    },
+    {
+      "id": "T1784701459982",
+      "date": "2026-07-23",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Proverka pc",
+      "note": "Kompyuyeri ishlamayapti, qarab berish kerak",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614721161
     }
   ],
   "finance": []
