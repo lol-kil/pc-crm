@@ -151,9 +151,9 @@
       "addr": "",
       "taskType": "",
       "note": "Klaviaturani zilolaga berildi.\nYangi komyuyer berildi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Boldi",
       "createdAt": 1784709245528
     }
   ],
