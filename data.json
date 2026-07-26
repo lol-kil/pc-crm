@@ -86,9 +86,9 @@
       "addr": "",
       "taskType": "Alixon aka etgan ish",
       "note": "Botta komyuter gigabayt internet bermayapti",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Tekshirdik ozlarida ayb alihon akada 200 olish kere",
       "createdAt": 1784616749831
     },
     {
