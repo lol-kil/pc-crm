@@ -155,6 +155,19 @@
       "income": 0,
       "closeNote": "Boldi",
       "createdAt": 1784709245528
+    },
+    {
+      "id": "T1785082279160",
+      "date": "2026-07-25",
+      "client": "Advakatura",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "Serverni yigishkerka",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785082279160
     }
   ],
   "finance": [
