@@ -190,9 +190,9 @@
       "addr": "",
       "taskType": "Server",
       "note": "Server yegib kabelari ulanishga tayyorlandi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Yigilde server yashigininozi qoganlari ertangiga qoldi",
       "createdAt": 1785086549932
     }
   ],
