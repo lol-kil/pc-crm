@@ -164,9 +164,9 @@
       "addr": "",
       "taskType": "",
       "note": "Serverni yigishkerka",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Serverni chotki qib qotirdik, pilotni kochirib kameralarni qotirish kerak",
       "createdAt": 1785082279160
     }
   ],
