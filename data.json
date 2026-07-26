@@ -181,6 +181,19 @@
       "income": 0,
       "closeNote": "Bir kun otish kere eshilani yopi  kochirib berishga",
       "createdAt": 1785086445696
+    },
+    {
+      "id": "T1785086549932",
+      "date": "2026-07-24",
+      "client": "Advokatura",
+      "phone": "",
+      "addr": "",
+      "taskType": "Server",
+      "note": "Server yegib kabelari ulanishga tayyorlandi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785086549932
     }
   ],
   "finance": [
