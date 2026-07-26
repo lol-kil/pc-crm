@@ -177,9 +177,9 @@
       "addr": "",
       "taskType": "Kabel",
       "note": "6 ta 10 gb kabel tashadik\nKatta serverni yegib berdik\n\nYana kochirib eshilani yopib berishimiz kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Bir kun otish kere eshilani yopi  kochirib berishga",
       "createdAt": 1785086445696
     }
   ],
