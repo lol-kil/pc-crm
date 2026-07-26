@@ -99,9 +99,9 @@
       "addr": "",
       "taskType": "Igravoy kompyuter, qarab berish kerak",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Videokartasi va kukeri keysi ssd si ozgardi, boshidan yigib bervorikdi",
       "createdAt": 1784616776862
     },
     {
