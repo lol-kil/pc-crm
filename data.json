@@ -112,9 +112,9 @@
       "addr": "",
       "taskType": "Printer",
       "note": "Rangli kraskaga zapravka",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Zapravka qlindi",
       "createdAt": 1784617577515
     },
     {
