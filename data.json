@@ -168,6 +168,19 @@
       "income": 0,
       "closeNote": "Serverni chotki qib qotirdik, pilotni kochirib kameralarni qotirish kerak",
       "createdAt": 1785082279160
+    },
+    {
+      "id": "T1785086445696",
+      "date": "2026-07-24",
+      "client": "Boysxon aka",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kabel",
+      "note": "6 ta 10 gb kabel tashadik\nKatta serverni yegib berdik\n\nYana kochirib eshilani yopib berishimiz kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785086445696
     }
   ],
   "finance": [
