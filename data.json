@@ -203,9 +203,9 @@
       "addr": "Ekologiya",
       "taskType": "Zapravka",
       "note": "Printerlaini korib zapravka qilib berish kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "2 та магнитка 1005\n4 та заправка 1005\n1 та заправка 218",
       "createdAt": 1784614662084
     },
     {
