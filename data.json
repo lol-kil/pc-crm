@@ -216,9 +216,9 @@
       "addr": "",
       "taskType": "Internet",
       "note": "Kompyuyerda internetlari ishlamayapti qarash kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "4 та заправка 1005\n1 та барабан \n1 та магнитка пружинали",
       "createdAt": 1784614836155
     },
     {
