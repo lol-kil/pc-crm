@@ -242,9 +242,9 @@
       "addr": "",
       "taskType": "Monbloklarini podsvetkasini togirladik bervorish kerak",
       "note": "Yana bittasiga plata topish kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "250000",
+      "closeNote": "Манаблоклврини бердик биттвси коган",
       "createdAt": 1785131170313
     }
   ],
@@ -255,6 +255,13 @@
       "amount": 200000,
       "desc": "Задача: Shuxrat",
       "date": "2026-07-23"
+    },
+    {
+      "id": "F1785146333476",
+      "type": "inc",
+      "amount": 250000,
+      "desc": "Задача: Isxoq aka",
+      "date": "2026-07-27"
     }
   ]
 }
