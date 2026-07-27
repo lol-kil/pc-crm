@@ -233,6 +233,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614721161
+    },
+    {
+      "id": "T1785131170313",
+      "date": "2026-07-27",
+      "client": "Ishoq aka",
+      "phone": "",
+      "addr": "",
+      "taskType": "Monbloklarini podsvetkasini togirladik bervorish kerak",
+      "note": "Yana bittasiga plata topish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785131170313
     }
   ],
   "finance": [
