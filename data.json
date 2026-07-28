@@ -229,9 +229,9 @@
       "addr": "",
       "taskType": "Proverka pc",
       "note": "Kompyuyeri ishlamayapti, qarab berish kerak",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Yangi yegamiz",
       "createdAt": 1784614721161
     },
     {
