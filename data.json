@@ -259,6 +259,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1784614721161
+    },
+    {
+      "id": "T1785226301382",
+      "date": "2026-07-28",
+      "client": "Ermak A blok",
+      "phone": "",
+      "addr": "",
+      "taskType": "Заправка",
+      "note": "1 та заправка 1010\n6 та заправка 1005\n\n2 та 1010 барабан ва 3 этаждеги катта принтерга ранглига заправка кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785226301382
     }
   ],
   "finance": [
