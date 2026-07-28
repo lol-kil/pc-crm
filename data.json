@@ -246,6 +246,19 @@
       "income": "250000",
       "closeNote": "Манаблоклврини бердик биттвси коган",
       "createdAt": 1785131170313
+    },
+    {
+      "id": "T1785226069104",
+      "date": "2026-07-31",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Proverka pc",
+      "note": "Kompyuyeri ishlamayapti, qarab berish kerak",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1784614721161
     }
   ],
   "finance": [
