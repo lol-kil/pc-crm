@@ -272,6 +272,19 @@
       "income": 0,
       "closeNote": "2 та 1010 барабан\n3 этаждеги катта рангли принтерга заправка",
       "createdAt": 1785226301382
+    },
+    {
+      "id": "T1785226387113",
+      "date": "2026-07-28",
+      "client": "Ermak yangi blok",
+      "phone": "",
+      "addr": "",
+      "taskType": "Заправка",
+      "note": "Битта катта принтерга заправка кбериш кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785226387113
     }
   ],
   "finance": [
