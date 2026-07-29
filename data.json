@@ -298,6 +298,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1785311031771
+    },
+    {
+      "id": "T1785311113649",
+      "date": "2026-07-29",
+      "client": "Ermak A blok",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "2 та замена барабан 1010\n1 та замена гупка\n1 та замена ракл",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785311113649
     }
   ],
   "finance": [
