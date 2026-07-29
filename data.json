@@ -285,6 +285,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1785226387113
+    },
+    {
+      "id": "T1785311031771",
+      "date": "2026-07-29",
+      "client": "Ermak yangi blok",
+      "phone": "",
+      "addr": "",
+      "taskType": "Заправка",
+      "note": "2 та заправка 1005\n1 та замена гупки\n1 та янги 735 катриж бердик",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785311031771
     }
   ],
   "finance": [
