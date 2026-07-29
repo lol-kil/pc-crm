@@ -307,8 +307,8 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "2 та замена барабан 1010\n1 та замена гупка\n1 та замена ракл",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1785311113649
     }
