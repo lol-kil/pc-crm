@@ -294,8 +294,8 @@
       "addr": "",
       "taskType": "Заправка",
       "note": "2 та заправка 1005\n1 та замена гупки\n1 та янги 735 катриж бердик",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1785311031771
     }
