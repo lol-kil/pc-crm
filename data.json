@@ -337,6 +337,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1785857578584
+    },
+    {
+      "id": "T1785857642410",
+      "date": "2026-08-04",
+      "client": "Ermak shaxzod",
+      "phone": "",
+      "addr": "",
+      "taskType": "Zapravka",
+      "note": "14 ta 1005 zapravka\n2 ta baraban\n1 ta magnitka",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785857642410
     }
   ],
   "finance": [
