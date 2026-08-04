@@ -350,6 +350,19 @@
       "income": 0,
       "closeNote": "Boldi",
       "createdAt": 1785857642410
+    },
+    {
+      "id": "T1785857775825",
+      "date": "2026-08-03",
+      "client": "Advokat",
+      "phone": "",
+      "addr": "",
+      "taskType": "Server",
+      "note": "Printerlar va server",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785857775825
     }
   ],
   "finance": [
