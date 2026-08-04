@@ -324,6 +324,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1785857472021
+    },
+    {
+      "id": "T1785857578584",
+      "date": "2026-08-04",
+      "client": "Ermak A korpus",
+      "phone": "",
+      "addr": "",
+      "taskType": "Заправка",
+      "note": "1 та 1005 запрвка",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785857578584
     }
   ],
   "finance": [
