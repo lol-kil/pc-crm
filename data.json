@@ -311,6 +311,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1785311294486
+    },
+    {
+      "id": "T1785857472021",
+      "date": "2026-08-04",
+      "client": "Адвакат",
+      "phone": "",
+      "addr": "",
+      "taskType": "Сервер",
+      "note": "Серверла принтерлар компютерлар сет",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785857472021
     }
   ],
   "finance": [
