@@ -359,8 +359,8 @@
       "addr": "",
       "taskType": "Server",
       "note": "Printerlar va server",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1785857775825
     }
