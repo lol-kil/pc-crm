@@ -320,9 +320,9 @@
       "addr": "",
       "taskType": "Сервер",
       "note": "Серверла принтерлар компютерлар сет",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Chalasi qoldi hali",
       "createdAt": 1785857472021
     },
     {
