@@ -376,6 +376,19 @@
       "income": 0,
       "closeNote": "Kabeli qob ketdi",
       "createdAt": 1785998254324
+    },
+    {
+      "id": "T1785998330851",
+      "date": "2026-08-06",
+      "client": "Kitay magazin",
+      "phone": "",
+      "addr": "",
+      "taskType": "Remont",
+      "note": "Printerini togirlab bervorish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785998330851
     }
   ],
   "finance": [
