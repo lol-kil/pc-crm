@@ -372,9 +372,9 @@
       "addr": "",
       "taskType": "Remont",
       "note": "Printerni togirlaganmoz oborib berishimiz kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Kabeli qob ketdi",
       "createdAt": 1785998254324
     }
   ],
