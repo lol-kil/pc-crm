@@ -385,9 +385,9 @@
       "addr": "",
       "taskType": "Remont",
       "note": "Printerini togirlab bervorish kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "500000",
+      "closeNote": "Обориб бердик, улаб тшкнтирдик\nКабел бердик",
       "createdAt": 1785998330851
     },
     {
@@ -431,6 +431,13 @@
       "amount": 250000,
       "desc": "Задача: Isxoq aka",
       "date": "2026-07-27"
+    },
+    {
+      "id": "F1786019953331",
+      "type": "inc",
+      "amount": 500000,
+      "desc": "Задача: Kitay magazin",
+      "date": "2026-08-06"
     }
   ]
 }
