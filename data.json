@@ -398,9 +398,9 @@
       "addr": "",
       "taskType": "Zapravka",
       "note": "Kraska oborib berishimiz kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Принтерни настройка киб бердик\nУпс янги обкеп берлик\nПринтерга краска куйдик эпсон",
       "createdAt": 1785998392295
     },
     {
