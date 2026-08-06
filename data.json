@@ -363,6 +363,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1785857775825
+    },
+    {
+      "id": "T1785998254324",
+      "date": "2026-08-05",
+      "client": "Chip lend",
+      "phone": "",
+      "addr": "",
+      "taskType": "Remont",
+      "note": "Printerni togirlaganmoz oborib berishimiz kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785998254324
     }
   ],
   "finance": [
