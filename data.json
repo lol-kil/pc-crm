@@ -389,6 +389,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1785998330851
+    },
+    {
+      "id": "T1785998392295",
+      "date": "2026-08-06",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Zapravka",
+      "note": "Kraska oborib berishimiz kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1785998392295
     }
   ],
   "finance": [
