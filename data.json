@@ -441,6 +441,19 @@
       "income": "300000",
       "closeNote": "Виндовс уриб бердик",
       "createdAt": 1786386747761
+    },
+    {
+      "id": "T1786386796938",
+      "date": "2026-08-10",
+      "client": "LipMotors avtosolon",
+      "phone": "",
+      "addr": "",
+      "taskType": "Printer",
+      "note": "Yangi printirini ulab berish kerag edi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786386796938
     }
   ],
   "finance": [
