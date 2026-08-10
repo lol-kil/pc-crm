@@ -476,9 +476,9 @@
       "addr": "",
       "taskType": "Printer",
       "note": "Zaprafka qilish kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "3 ta 1010 zapravka",
       "createdAt": 1786386915024
     }
   ],
