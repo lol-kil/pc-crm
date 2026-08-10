@@ -467,6 +467,19 @@
       "income": 0,
       "closeNote": "1 ta 1005 zaprafka\nInternetini qarab berdi",
       "createdAt": 1786386837866
+    },
+    {
+      "id": "T1786386915024",
+      "date": "2026-08-09",
+      "client": "Chiplent",
+      "phone": "",
+      "addr": "",
+      "taskType": "Printer",
+      "note": "Zaprafka qilish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786386915024
     }
   ],
   "finance": [
