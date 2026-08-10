@@ -489,9 +489,9 @@
       "addr": "",
       "taskType": "Kompyuter",
       "note": "Yangi ssd ga windows urib oborib berdim",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "882000",
+      "closeNote": "Kabelni ham sotik",
       "createdAt": 1786386987764
     }
   ],
@@ -523,6 +523,13 @@
       "amount": 300000,
       "desc": "Задача: Нур мфй",
       "date": "2026-08-10"
+    },
+    {
+      "id": "F1786387042321",
+      "type": "inc",
+      "amount": 882000,
+      "desc": "Задача: LipMotors avtosolon",
+      "date": "2026-08-09"
     }
   ]
 }
