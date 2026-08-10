@@ -528,9 +528,9 @@
       "addr": "",
       "taskType": "Prunter",
       "note": "Yangi printerlaini boglab berish kerag edi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Buhalteriyadagi ikkta opani kompini boglab berdim.\nOkalani printer kabelni bervordim.\nOpalani ikktasini boglash kerag yangi printerga, eskisini togirlab kelish kerag",
       "createdAt": 1786387213645
     }
   ],
