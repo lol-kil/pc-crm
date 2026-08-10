@@ -450,9 +450,9 @@
       "addr": "",
       "taskType": "Printer",
       "note": "Yangi printirini ulab berish kerag edi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "4 ta pc ga ulab berdik",
       "createdAt": 1786386796938
     }
   ],
