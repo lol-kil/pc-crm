@@ -480,6 +480,19 @@
       "income": 0,
       "closeNote": "3 ta 1010 zapravka",
       "createdAt": 1786386915024
+    },
+    {
+      "id": "T1786386987764",
+      "date": "2026-08-09",
+      "client": "LipMotors avtosolon",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kompyuter",
+      "note": "Yangi ssd ga windows urib oborib berdim",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786386987764
     }
   ],
   "finance": [
