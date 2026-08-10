@@ -415,6 +415,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1785998453746
+    },
+    {
+      "id": "T1786386679224",
+      "date": "2026-08-10",
+      "client": "Адвакатура",
+      "phone": "",
+      "addr": "",
+      "taskType": "Компютер бошкатан кейсга сборка киб бердик",
+      "note": "Иккта wifi усилител койдик",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786386679227
     }
   ],
   "finance": [
