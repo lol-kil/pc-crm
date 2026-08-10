@@ -463,9 +463,9 @@
       "addr": "",
       "taskType": "Internet bilan muamo",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "1 ta 1005 zaprafka\nInternetini qarab berdi",
       "createdAt": 1786386837866
     }
   ],
