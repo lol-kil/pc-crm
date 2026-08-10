@@ -437,9 +437,9 @@
       "addr": "",
       "taskType": "Виндовс",
       "note": "Компютерига виндовс урдиу",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "300000",
+      "closeNote": "Виндовс уриб бердик",
       "createdAt": 1786386747761
     }
   ],
@@ -464,6 +464,13 @@
       "amount": 500000,
       "desc": "Задача: Kitay magazin",
       "date": "2026-08-06"
+    },
+    {
+      "id": "F1786386764259",
+      "type": "inc",
+      "amount": 300000,
+      "desc": "Задача: Нур мфй",
+      "date": "2026-08-10"
     }
   ]
 }
