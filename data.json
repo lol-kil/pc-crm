@@ -502,9 +502,9 @@
       "addr": "",
       "taskType": "Kamerasi",
       "note": "Uyiga borib kamerani qarab berish kerak edi",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Ip ni almashtirib qoshib qoydim",
       "createdAt": 1786387112360
     }
   ],
