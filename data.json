@@ -493,6 +493,19 @@
       "income": "882000",
       "closeNote": "Kabelni ham sotik",
       "createdAt": 1786386987764
+    },
+    {
+      "id": "T1786387112360",
+      "date": "2026-08-09",
+      "client": "Abbos",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kamerasi",
+      "note": "Uyiga borib kamerani qarab berish kerak edi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786387112360
     }
   ],
   "finance": [
