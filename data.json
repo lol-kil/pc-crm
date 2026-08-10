@@ -428,6 +428,19 @@
       "income": 0,
       "closeNote": "Интернетни кориш кере",
       "createdAt": 1786386679227
+    },
+    {
+      "id": "T1786386747761",
+      "date": "2026-08-10",
+      "client": "Нур мфй",
+      "phone": "",
+      "addr": "",
+      "taskType": "Виндовс",
+      "note": "Компютерига виндовс урдиу",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786386747761
     }
   ],
   "finance": [
