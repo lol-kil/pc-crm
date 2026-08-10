@@ -506,6 +506,19 @@
       "income": 0,
       "closeNote": "Ip ni almashtirib qoshib qoydim",
       "createdAt": 1786387112360
+    },
+    {
+      "id": "T1786387155318",
+      "date": "2026-08-08",
+      "client": "LipMotors",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kompyuyer",
+      "note": "Yonmayalgandi korib berish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786387155318
     }
   ],
   "finance": [
