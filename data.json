@@ -519,6 +519,19 @@
       "income": 0,
       "closeNote": "Kordik ssd dan bolishi kerak edi ob keti",
       "createdAt": 1786387155318
+    },
+    {
+      "id": "T1786387213645",
+      "date": "2026-08-08",
+      "client": "Chiplend",
+      "phone": "",
+      "addr": "",
+      "taskType": "Prunter",
+      "note": "Yangi printerlaini boglab berish kerag edi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786387213645
     }
   ],
   "finance": [
