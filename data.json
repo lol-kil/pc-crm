@@ -424,9 +424,9 @@
       "addr": "",
       "taskType": "Компютер бошкатан кейсга сборка киб бердик",
       "note": "Иккта wifi усилител койдик",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Интернетни кориш кере",
       "createdAt": 1786386679227
     }
   ],
