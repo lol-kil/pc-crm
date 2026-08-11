@@ -567,9 +567,9 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "2 та заправка 1005\n2 та нас ройка принтерга",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "О57 катриж кере\nРангли принтерга заправка кере",
       "createdAt": 1786457193470
     }
   ],
