@@ -554,9 +554,9 @@
       "addr": "",
       "taskType": "Internet",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Серверни сал ьартибладик\nСервербаги телефони симларини аник килдик\n________\nЛан разетка оволиш кере",
       "createdAt": 1786423914419
     }
   ],
