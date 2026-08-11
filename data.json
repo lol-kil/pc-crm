@@ -610,6 +610,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457554928
+    },
+    {
+      "id": "T1786457723719",
+      "date": "2026-08-12",
+      "client": "Чип ленд",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "Коганлани боглаш кере янги пиинтерга\nИшламаган принтерни кориб бериш кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457723719
     }
   ],
   "finance": [
