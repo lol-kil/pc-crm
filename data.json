@@ -541,9 +541,9 @@
       "addr": "",
       "taskType": "Manablok manitorini korib berish kere, oynavoti",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Бомади",
       "createdAt": 1786423885842
     },
     {
