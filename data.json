@@ -662,6 +662,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457894944
+    },
+    {
+      "id": "T1786457962448",
+      "date": "2026-08-12",
+      "client": "Шампан фирма",
+      "phone": "",
+      "addr": "",
+      "taskType": "Камера",
+      "note": "1 та камера койишимиз кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457962448
     }
   ],
   "finance": [
