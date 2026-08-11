@@ -636,6 +636,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457751470
+    },
+    {
+      "id": "T1786457790878",
+      "date": "2026-08-12",
+      "client": "Осиё транс",
+      "phone": "",
+      "addr": "",
+      "taskType": "Манитор",
+      "note": "Видеокарта билан манитор кабелини алмаштириб кетамиз",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457790878
     }
   ],
   "finance": [
