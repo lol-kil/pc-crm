@@ -584,6 +584,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457443647
+    },
+    {
+      "id": "T1786457480807",
+      "date": "2026-08-12",
+      "client": "Адвакатура",
+      "phone": "",
+      "addr": "",
+      "taskType": "Ип телефон",
+      "note": "1 та лан резетка кере, телефонни тогирлаб койишга",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457480807
     }
   ],
   "finance": [
