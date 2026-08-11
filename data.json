@@ -532,6 +532,19 @@
       "income": 0,
       "closeNote": "Buhalteriyadagi ikkta opani kompini boglab berdim.\nOkalani printer kabelni bervordim.\nOpalani ikktasini boglash kerag yangi printerga, eskisini togirlab kelish kerag",
       "createdAt": 1786387213645
+    },
+    {
+      "id": "T1786423885842",
+      "date": "2026-08-11",
+      "client": "Alixon aka",
+      "phone": "",
+      "addr": "",
+      "taskType": "Manablok manitorini korib berish kere, oynavoti",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786423885842
     }
   ],
   "finance": [
