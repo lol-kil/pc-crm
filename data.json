@@ -545,6 +545,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786423885842
+    },
+    {
+      "id": "T1786423914419",
+      "date": "2026-08-11",
+      "client": "Advakatura",
+      "phone": "",
+      "addr": "",
+      "taskType": "Internet",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786423914419
     }
   ],
   "finance": [
