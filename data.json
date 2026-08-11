@@ -571,6 +571,19 @@
       "income": 0,
       "closeNote": "О57 катриж кере\nРангли принтерга заправка кере",
       "createdAt": 1786457193470
+    },
+    {
+      "id": "T1786457443647",
+      "date": "2026-08-12",
+      "client": "Алихон ака",
+      "phone": "",
+      "addr": "",
+      "taskType": "Моноблокни оволиш кере",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457443647
     }
   ],
   "finance": [
