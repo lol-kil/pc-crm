@@ -671,9 +671,9 @@
       "addr": "",
       "taskType": "Камера",
       "note": "1 та камера койишимиз кере",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Ornatib keldik",
       "createdAt": 1786457962448
     },
     {
