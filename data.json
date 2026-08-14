@@ -684,9 +684,9 @@
       "addr": "",
       "taskType": "Моноблокни оволиш кере",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Yangi ssd qoyib wi dows urildi",
       "createdAt": 1786457443647
     },
     {
@@ -710,9 +710,9 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "Коганлани боглаш кере янги пиинтерга\nИшламаган принтерни кориб бериш кере",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "6 ta 1005 zapravka\n1 ta magnitka\nProchiska boldi printer\n1 ta kompyuter olingan",
       "createdAt": 1786457723719
     },
     {
