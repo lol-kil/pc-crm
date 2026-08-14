@@ -714,6 +714,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457723719
+    },
+    {
+      "id": "T1786699988987",
+      "date": "2026-08-15",
+      "client": "Осиё транс",
+      "phone": "",
+      "addr": "",
+      "taskType": "Гаражка",
+      "note": "Компютери билан муаммо кориб бериш керак",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457894944
     }
   ],
   "finance": [
