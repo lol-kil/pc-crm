@@ -753,6 +753,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457480807
+    },
+    {
+      "id": "T1786702942581",
+      "date": "2026-08-14",
+      "client": "Garajshka",
+      "phone": "",
+      "addr": "",
+      "taskType": "Nastroyka kameri",
+      "note": "Otgan safargi kamer ishlan",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786702942581
     }
   ],
   "finance": [
