@@ -727,6 +727,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457894944
+    },
+    {
+      "id": "T1786700032525",
+      "date": "2026-08-13",
+      "client": "Аббос янги офис",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "057 катрижини ташаб кетишимиз кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457751470
     }
   ],
   "finance": [
