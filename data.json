@@ -688,6 +688,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457443647
+    },
+    {
+      "id": "T1786699878462",
+      "date": "2026-08-13",
+      "client": "Абблс эски офис",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "Canon 453 принтерига янги катриж об келиш кере\nРанли принтерига хам заправка клиш кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457554928
     }
   ],
   "finance": [
