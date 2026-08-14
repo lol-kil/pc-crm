@@ -675,6 +675,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457962448
+    },
+    {
+      "id": "T1786699820616",
+      "date": "2026-08-14",
+      "client": "Алихон ака",
+      "phone": "",
+      "addr": "",
+      "taskType": "Моноблокни оволиш кере",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457443647
     }
   ],
   "finance": [
