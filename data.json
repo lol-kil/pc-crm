@@ -645,9 +645,9 @@
       "addr": "",
       "taskType": "Манитор",
       "note": "Видеокарта билан манитор кабелини алмаштириб кетамиз",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Кабел билан hdmi qoydik\n1 ta zapravka boldi",
       "createdAt": 1786457790878
     },
     {
