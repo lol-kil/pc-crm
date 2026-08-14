@@ -762,9 +762,9 @@
       "addr": "",
       "taskType": "Nastroyka kameri",
       "note": "Otgan safargi kamer ishlan",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Kamerani tivirla  berdik",
       "createdAt": 1786702942581
     }
   ],
