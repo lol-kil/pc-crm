@@ -723,9 +723,9 @@
       "addr": "",
       "taskType": "Гаражка",
       "note": "Компютери билан муаммо кориб бериш керак",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "1 ta zaprafka 1005\n2 ta Printiru ustanovka\nKabel bilan hdmi almashtirib berdik ziolani kompyuterid",
       "createdAt": 1786457894944
     },
     {
