@@ -779,6 +779,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457480807
+    },
+    {
+      "id": "T1786945842293",
+      "date": "2026-08-15",
+      "client": "Dori",
+      "phone": "",
+      "addr": "",
+      "taskType": "Rabota",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786945842293
     }
   ],
   "finance": [
