@@ -736,9 +736,9 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "057 катрижини ташаб кетишимиз кере",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "2 ta katta katrij berib keldi",
       "createdAt": 1786457751470
     },
     {
