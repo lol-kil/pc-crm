@@ -766,6 +766,19 @@
       "income": 0,
       "closeNote": "Kamerani tivirla  berdik",
       "createdAt": 1786702942581
+    },
+    {
+      "id": "T1786945810778",
+      "date": "2026-08-17",
+      "client": "Адвакатура",
+      "phone": "",
+      "addr": "",
+      "taskType": "Ип телефон",
+      "note": "1 та лан резетка кере, телефонни тогирлаб койишга",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786457480807
     }
   ],
   "finance": [
