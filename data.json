@@ -818,6 +818,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786945924812
+    },
+    {
+      "id": "T1786946012948",
+      "date": "2026-08-17",
+      "client": "Abbos yangi odis",
+      "phone": "",
+      "addr": "",
+      "taskType": "E imzo",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786946012948
     }
   ],
   "finance": [
