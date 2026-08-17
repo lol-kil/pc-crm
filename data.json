@@ -805,6 +805,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457554928
+    },
+    {
+      "id": "T1786945924812",
+      "date": "2026-08-17",
+      "client": "Chiplend",
+      "phone": "",
+      "addr": "",
+      "taskType": "Windows",
+      "note": "Ustanovka windows va programmalarini",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1786945924812
     }
   ],
   "finance": [
