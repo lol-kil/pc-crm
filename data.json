@@ -857,6 +857,19 @@
       "income": 0,
       "closeNote": "6 ta kamerani joyini ozgartirib berdin\n6 metr kabel ketdi",
       "createdAt": 1787551807937
+    },
+    {
+      "id": "T1787552199143",
+      "date": "2026-08-20",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kamera",
+      "note": "1 ta kamerani ornatib berdim\n2 ta sim kartani eski kameaga qoyib berdim\n2 tasini qoyib berishim kere yana",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552199143
     }
   ],
   "finance": [
