@@ -814,8 +814,8 @@
       "addr": "",
       "taskType": "Windows",
       "note": "Ustanovka windows va programmalarini",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1786945924812
     },
