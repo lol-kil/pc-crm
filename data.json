@@ -918,8 +918,8 @@
       "addr": "",
       "taskType": "Kabel",
       "note": "Yangi korpusiga kabel tashladim\n1 ya buhta toliq + 2 buhtadan qanchadur( tahminan 100/150 metr)",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1787552637314
     }
