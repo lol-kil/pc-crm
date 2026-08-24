@@ -935,6 +935,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1787552688256
+    },
+    {
+      "id": "T1787552808817",
+      "date": "2026-08-24",
+      "client": "Yangi klient",
+      "phone": "",
+      "addr": "",
+      "taskType": "Internet",
+      "note": "Kompyuterida internet pas ishlavoti tahmin serverniy boganiga",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552808817
     }
   ],
   "finance": [
