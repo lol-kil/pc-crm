@@ -801,9 +801,9 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "Canon 453 принтерига янги катриж об келиш кере\nРанли принтерига хам заправка клиш кере",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Sho?irza berib bopti oldingisi bilan birga",
       "createdAt": 1786457554928
     },
     {
