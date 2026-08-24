@@ -866,9 +866,9 @@
       "addr": "",
       "taskType": "Kamera",
       "note": "1 ta kamerani ornatib berdim\n2 ta sim kartani eski kameaga qoyib berdim\n2 tasini qoyib berishim kere yana",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Yana 2 tasi qoldi",
       "createdAt": 1787552199143
     }
   ],
