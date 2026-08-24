@@ -827,8 +827,8 @@
       "addr": "",
       "taskType": "E imzo",
       "note": "",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1786946012948
     },
