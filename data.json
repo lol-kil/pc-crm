@@ -879,9 +879,9 @@
       "addr": "",
       "taskType": "Zapravka",
       "note": "1 ta 1005 zapravka",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Yangi katrij tashab ketish kere",
       "createdAt": 1787552282205
     }
   ],
