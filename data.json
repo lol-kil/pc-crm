@@ -896,6 +896,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1787552323172
+    },
+    {
+      "id": "T1787552346402",
+      "date": "2026-08-24",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kamera",
+      "note": "2 ta kamerasini ornatib berish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552346403
     }
   ],
   "finance": [
