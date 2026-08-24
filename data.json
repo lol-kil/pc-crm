@@ -922,6 +922,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1787552637314
+    },
+    {
+      "id": "T1787552688256",
+      "date": "2026-08-18",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kabel",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552688256
     }
   ],
   "finance": [
