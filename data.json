@@ -831,6 +831,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786946012948
+    },
+    {
+      "id": "T1787551744309",
+      "date": "2026-08-22",
+      "client": "Advakatura",
+      "phone": "",
+      "addr": "",
+      "taskType": "Internetida muammo ed",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787551744309
     }
   ],
   "finance": [
