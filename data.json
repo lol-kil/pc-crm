@@ -948,6 +948,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1787552808817
+    },
+    {
+      "id": "T1787552955159",
+      "date": "2026-08-19",
+      "client": "Medic",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kompyuter",
+      "note": "Blok pitaniyasini almashtirish kerak edi",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552955159
     }
   ],
   "finance": [
