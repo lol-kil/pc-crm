@@ -883,6 +883,19 @@
       "income": 0,
       "closeNote": "Yangi katrij tashab ketish kere",
       "createdAt": 1787552282205
+    },
+    {
+      "id": "T1787552323172",
+      "date": "2026-08-24",
+      "client": "Ermak garajka",
+      "phone": "",
+      "addr": "",
+      "taskType": "Printer",
+      "note": "Yangi katrij berish kere",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552323172
     }
   ],
   "finance": [
