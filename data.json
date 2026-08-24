@@ -909,6 +909,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1786457480807
+    },
+    {
+      "id": "T1787552637314",
+      "date": "2026-08-19",
+      "client": "Osiyo trans",
+      "phone": "",
+      "addr": "",
+      "taskType": "Kabel",
+      "note": "Yangi korpusiga kabel tashladim\n1 ya buhta toliq + 2 buhtadan qanchadur( tahminan 100/150 metr)",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787552637314
     }
   ],
   "finance": [
