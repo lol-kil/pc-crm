@@ -974,6 +974,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1787552955159
+    },
+    {
+      "id": "T1787556877461",
+      "date": "2026-08-24",
+      "client": "Бойс хон ака",
+      "phone": "",
+      "addr": "",
+      "taskType": "Камера",
+      "note": "Камералври ишламаяпти экан, квраб бериш кере",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1787556877461
     }
   ],
   "finance": [
