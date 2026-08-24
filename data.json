@@ -840,9 +840,9 @@
       "addr": "",
       "taskType": "Internetida muammo ed",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Pachkordni almashtirdim\nPrinterni boglab berdim",
       "createdAt": 1787551744309
     }
   ],
