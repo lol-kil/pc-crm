@@ -974,6 +974,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1787556877461
+    },
+    {
+      "id": "T1788244279729",
+      "date": "2026-08-29",
+      "client": "Диля опа",
+      "phone": "",
+      "addr": "",
+      "taskType": "Помош",
+      "note": "1 та принтери чикармади, обкеттт\n2 та ноутбук, малумотлар ташишга\n1 та планшет, прошивкага",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788244279729
     }
   ],
   "finance": [
