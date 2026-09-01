@@ -1078,6 +1078,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788245403052
+    },
+    {
+      "id": "T1788245484163",
+      "date": "2026-08-27",
+      "client": "Янги клиент",
+      "phone": "",
+      "addr": "",
+      "taskType": "Интереет",
+      "note": "Компютерида интернет секин эди, бориб сабабини кордим аник килдик леник ечмадим",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245484163
     }
   ],
   "finance": [
