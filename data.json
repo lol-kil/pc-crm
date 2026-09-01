@@ -1156,6 +1156,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788245962642
+    },
+    {
+      "id": "T1788246408815",
+      "date": "2026-08-26",
+      "client": "Мачт",
+      "phone": "",
+      "addr": "",
+      "taskType": "Камера",
+      "note": "Камера санаси 2004 боп йотуди тогирлаб кейин келамиз дип кетти",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788246408816
     }
   ],
   "finance": [
