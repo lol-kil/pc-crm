@@ -1143,6 +1143,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788245732601
+    },
+    {
+      "id": "T1788245962642",
+      "date": "2026-08-26",
+      "client": "Аббос",
+      "phone": "",
+      "addr": "",
+      "taskType": "Наушни",
+      "note": "Наушнигини обориб бердик",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245962642
     }
   ],
   "finance": [
