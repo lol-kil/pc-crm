@@ -1026,6 +1026,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788244549335
+    },
+    {
+      "id": "T1788244760857",
+      "date": "2026-08-29",
+      "client": "Кимдирдан",
+      "phone": "",
+      "addr": "",
+      "taskType": "Пк",
+      "note": "Битта компютер оволдик тузатишга",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788244760857
     }
   ],
   "finance": [
