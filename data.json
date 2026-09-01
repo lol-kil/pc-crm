@@ -1091,6 +1091,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788245484163
+    },
+    {
+      "id": "T1788245553299",
+      "date": "2026-08-27",
+      "client": "Гамма",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "Иккта принтер олинди, иккаласиям эрменики, шукрулло акага бериб койилди",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245553299
     }
   ],
   "finance": [
