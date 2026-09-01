@@ -1048,8 +1048,8 @@
       "addr": "",
       "taskType": "Камера",
       "note": "Гаражга битта камера койиб бердик\nЩилолани йонидегига принтерини бошидан улаб бердик",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788244823640
     },
@@ -1087,8 +1087,8 @@
       "addr": "",
       "taskType": "Интереет",
       "note": "Компютерида интернет секин эди, бориб сабабини кордим аник килдик леник ечмадим",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788245484163
     },
