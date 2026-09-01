@@ -1065,6 +1065,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788244959243
+    },
+    {
+      "id": "T1788245403052",
+      "date": "2026-08-28",
+      "client": "Ермак д корпус",
+      "phone": "",
+      "addr": "",
+      "taskType": "Пк",
+      "note": "Ноут олиш керегиди, омадик караб бердик.",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245403052
     }
   ],
   "finance": [
