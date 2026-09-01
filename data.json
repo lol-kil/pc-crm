@@ -1130,6 +1130,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1788245672382
+    },
+    {
+      "id": "T1788245732601",
+      "date": "2026-08-31",
+      "client": "Аббос",
+      "phone": "",
+      "addr": "",
+      "taskType": "Конектор",
+      "note": "Битта телефон кабелни бошидан абжим кбериш кере 6 пинли адашмасам.",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245732601
     }
   ],
   "finance": [
