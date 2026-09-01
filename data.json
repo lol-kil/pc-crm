@@ -1074,8 +1074,8 @@
       "addr": "",
       "taskType": "Пк",
       "note": "Ноут олиш керегиди, омадик караб бердик.",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788245403052
     },
