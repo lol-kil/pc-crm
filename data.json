@@ -1195,6 +1195,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788246596513
+    },
+    {
+      "id": "T1788246707847",
+      "date": "2026-08-26",
+      "client": "Ракат махаллага",
+      "phone": "",
+      "addr": "",
+      "taskType": "Пк",
+      "note": "Компютерини кордим вайфайга улашга адвптор кере\nОрислага иккта кабел кере болади",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788246707847
     }
   ],
   "finance": [
