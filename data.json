@@ -1165,8 +1165,8 @@
       "addr": "",
       "taskType": "Камера",
       "note": "Камера санаси 2004 боп йотуди тогирлаб кейин келамиз дип кетти",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788246408816
     }
