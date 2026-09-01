@@ -1169,6 +1169,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1788246408816
+    },
+    {
+      "id": "T1788246461392",
+      "date": "2026-08-26",
+      "client": "Дорихона",
+      "phone": "",
+      "addr": "",
+      "taskType": "Камерала",
+      "note": "Вроде заммасини кип койдин озин",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788246461392
     }
   ],
   "finance": [
