@@ -996,8 +996,8 @@
       "addr": "",
       "taskType": "Камера",
       "note": "Горажга битта камера койдик\nБитта type-c удлинител кетди",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788244340855
     },
@@ -1009,8 +1009,8 @@
       "addr": "",
       "taskType": "1 та камераси ишлами коган ошани тогирлабик",
       "note": "",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788244454368
     },
