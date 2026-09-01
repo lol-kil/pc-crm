@@ -1000,6 +1000,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788244340855
+    },
+    {
+      "id": "T1788244454368",
+      "date": "2026-08-29",
+      "client": "Шанпан завод",
+      "phone": "",
+      "addr": "",
+      "taskType": "1 та камераси ишлами коган ошани тогирлабик",
+      "note": "",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788244454368
     }
   ],
   "finance": [
