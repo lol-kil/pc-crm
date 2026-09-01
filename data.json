@@ -987,6 +987,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788244279729
+    },
+    {
+      "id": "T1788244340855",
+      "date": "2026-08-29",
+      "client": "Осиё транс",
+      "phone": "",
+      "addr": "",
+      "taskType": "Камера",
+      "note": "Горажга битта камера койдик\nБитта type-c удлинител кетди",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788244340855
     }
   ],
   "finance": [
