@@ -983,8 +983,8 @@
       "addr": "",
       "taskType": "Помош",
       "note": "1 та принтери чикармади, обкеттт\n2 та ноутбук, малумотлар ташишга\n1 та планшет, прошивкага",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788244279729
     },
