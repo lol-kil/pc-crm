@@ -1035,8 +1035,8 @@
       "addr": "",
       "taskType": "Пк",
       "note": "Битта компютер оволдик тузатишга",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788244760857
     },
