@@ -1117,6 +1117,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788245624323
+    },
+    {
+      "id": "T1788245672382",
+      "date": "2026-08-27",
+      "client": "Аббос",
+      "phone": "",
+      "addr": "",
+      "taskType": "Принтер",
+      "note": "Принтерени лпн кабел билан улаб бердим.\nБитта телефон конектори кераг унга",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1788245672382
     }
   ],
   "finance": [
