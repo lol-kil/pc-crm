@@ -1126,8 +1126,8 @@
       "addr": "",
       "taskType": "Принтер",
       "note": "Принтерени лпн кабел билан улаб бердим.\nБитта телефон конектори кераг унга",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1788245672382
     }
