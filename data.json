@@ -866,9 +866,9 @@
       "addr": "",
       "taskType": "Printer",
       "note": "Yangi katrij berish kere",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": 0,
+      "closeNote": "Шомирза бериб кетди",
       "createdAt": 1787552323172
     },
     {
