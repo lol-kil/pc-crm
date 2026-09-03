@@ -1230,9 +1230,9 @@
       "addr": "Оо",
       "taskType": "О",
       "note": "",
-      "closed": false,
-      "income": null,
-      "closeNote": "",
+      "closed": true,
+      "income": "00",
+      "closeNote": "Ничего",
       "createdAt": 1788455362445
     }
   ],
