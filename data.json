@@ -1221,19 +1221,6 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788246882396
-    },
-    {
-      "id": "T1788455362445",
-      "date": "2026-09-03",
-      "client": "Сардор",
-      "phone": "97",
-      "addr": "Оо",
-      "taskType": "О",
-      "note": "",
-      "closed": true,
-      "income": "00",
-      "closeNote": "Ничего",
-      "createdAt": 1788455362445
     }
   ],
   "finance": [
