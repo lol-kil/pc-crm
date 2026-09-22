@@ -1260,6 +1260,19 @@
       "income": 0,
       "closeNote": "",
       "createdAt": 1790056380547
+    },
+    {
+      "id": "T1790056466963",
+      "date": "2026-09-21",
+      "client": "Abbos",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "2 ta zaprafka 1005",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1790056466963
     }
   ],
   "finance": [
