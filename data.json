@@ -1230,8 +1230,8 @@
       "addr": "",
       "taskType": "",
       "note": "Ssd m2 nwme 256 gb ustanofka windows ustanofka printer",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1790056272812
     },
