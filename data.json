@@ -1269,8 +1269,8 @@
       "addr": "",
       "taskType": "",
       "note": "2 ta zaprafka 1005",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1790056466963
     }
