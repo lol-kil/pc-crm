@@ -1234,6 +1234,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1790056272812
+    },
+    {
+      "id": "T1790056357744",
+      "date": "2026-09-21",
+      "client": "Risiviy",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "Ssd 256 gb sata ustanofka windows 1 zaprafka 1005 1 zaprafka 1010",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1790056357744
     }
   ],
   "finance": [
