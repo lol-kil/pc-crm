@@ -1243,8 +1243,8 @@
       "addr": "",
       "taskType": "",
       "note": "Ssd 256 gb sata ustanofka windows 1 zaprafka 1005 1 zaprafka 1010",
-      "closed": false,
-      "income": null,
+      "closed": true,
+      "income": 0,
       "closeNote": "",
       "createdAt": 1790056357744
     },
