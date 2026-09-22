@@ -1221,6 +1221,19 @@
       "income": null,
       "closeNote": "",
       "createdAt": 1788246882396
+    },
+    {
+      "id": "T1790056272812",
+      "date": "2026-09-21",
+      "client": "Ermak",
+      "phone": "",
+      "addr": "",
+      "taskType": "",
+      "note": "Ssd m2 nwme 256 gb ustanofka windows ustanofka printer",
+      "closed": false,
+      "income": null,
+      "closeNote": "",
+      "createdAt": 1790056272812
     }
   ],
   "finance": [
